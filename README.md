@@ -1,5 +1,9 @@
 # about-me
 
+Hello, I'm [Rumen Stanimirov]
+
+SAP System & BASIS Administrator | Python Developer | AI & Creative Tech Explorer
+
 I'm a **System & SAP Administrator** with 10+ years of experience across **SD, MM, PP, FICO integration**, with solid SAP BASIS administration experience in system operations and support.
 
 Outside SAP, I develop web applications with **Python** and **Django**, contribute to **AI training and data annotation projects**, and explore **concept art** as a creative outlet.

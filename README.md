@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **System & SAP Administrator** with 10+ years of experience across **SD, MM, PP, FICO integration**, with solid SAP BASIS administration experience in system operations and support.
 
@@ -12,7 +12,7 @@ I enjoy working at the intersection of technology, problem-solving, and creativi
 
 ---
 
-## 🛠 Technologies & Interests
+## Technologies & Interests
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -23,7 +23,7 @@ I enjoy working at the intersection of technology, problem-solving, and creativi
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
 * SAP administration and business process optimization
 * Python & Django development with CI/CD and continuous deployment
@@ -33,7 +33,7 @@ I enjoy working at the intersection of technology, problem-solving, and creativi
 
 ---
 
-## 🔗 Connect
+## Connect
 
 * GitHub: https://github.com/RStanimirov
 * LinkedIn: https://www.linkedin.com/in/rumen-stanimirov-0535957/

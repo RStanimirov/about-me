@@ -14,6 +14,7 @@ I enjoy working at the intersection of technology, problem-solving, and creativi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Learning-blueviolet?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-Experience-success?style=for-the-badge)
 
 ---
@@ -24,7 +25,7 @@ I enjoy working at the intersection of technology, problem-solving, and creativi
 * Python & Django development with CI/CD and continuous deployment
 * AI data annotation and model training support
 * Networking and infrastructure
-* Concept art and digital creativity
+* Digital creativity and scripting
 
 ---
 

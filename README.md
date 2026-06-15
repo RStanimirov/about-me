@@ -6,7 +6,6 @@ Outside SAP, I develop web applications with **Python** and **Django**, contribu
 
 I enjoy working at the intersection of technology, problem-solving, and creativity.
 
----
 
 ## Technologies & Interests
 
@@ -17,7 +16,6 @@ I enjoy working at the intersection of technology, problem-solving, and creativi
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-Experience-success?style=for-the-badge)
 
----
 
 ## Current Focus
 
@@ -27,13 +25,13 @@ I enjoy working at the intersection of technology, problem-solving, and creativi
 * Networking and infrastructure
 * Digital creativity and scripting
 
----
 
 ## Connect
 
 * GitHub: https://github.com/RStanimirov
 * LinkedIn: https://www.linkedin.com/in/rumen-stanimirov-0535957/
 * Artstation: https://www.artstation.com/rstanimirov
+
 ---
 
 *"Evolving in the space where technology, art, and AI merge"*
